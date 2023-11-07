@@ -7,6 +7,8 @@ A Flutter application with Bloc and Dio integration.
 
 ## Features
 
+- Login screen
+- Register screen
 - Home screen
 - Categories screen
 - Product details screen
